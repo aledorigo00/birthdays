@@ -1,11 +1,11 @@
 birthdays = {
     'Albert Einstein': '03/14/1879',
-    'BenjaminFranklin': '01/17/1706',
-    'AdaLovelace': '12/10/1815',
-    'DonaldTrump': '06/14/1946',
-    'RowanAtkinson': '01/6/1955',
-    'FabioToffolo': '21/05/2000',
-    'AlanTuring': '23/07/1890'}
+    'Benjamin Franklin': '01/17/1706',
+    'Ada Lovelace': '12/10/1815',
+    'Donald Trump': '06/14/1946',
+    'Rowan Atkinson': '01/6/1955',
+    'Fabio Toffolo': '21/05/2000',
+    'Alan Turing': '23/07/1890'}
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
