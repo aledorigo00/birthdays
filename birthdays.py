@@ -4,7 +4,7 @@ birthdays = {
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
     'Rowan Atkinson': '01/6/1955',
-    'Fabio Toffolo': '21/05/2000',
+    'FabioToffolo': '21/05/2000',
     'Alan Turing': '23/07/1890'}
 
 def print_birthdays():
@@ -14,7 +14,7 @@ def print_birthdays():
 
 def return_birthday(name):
     if name in birthdays:
-        print('{}\'s birthday is {}.'.format(name, birthdays[name]))
+        return birthdays[name]
     else:
         print('Sadly, we don\'t have {}\'s birthday.'.format(name))
 
