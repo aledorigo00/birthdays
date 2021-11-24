@@ -1,5 +1,5 @@
 birthdays = {
-    'AlbertEinstein': '03/14/1879',
+    'Albert Einstein': '03/14/1879',
     'BenjaminFranklin': '01/17/1706',
     'AdaLovelace': '12/10/1815',
     'DonaldTrump': '06/14/1946',
